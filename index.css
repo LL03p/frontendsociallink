@@ -15,7 +15,6 @@
   height:140px;
   align-content: center;
   text-align: center;
-  margin:0;
 }
 
 .name-container
@@ -23,7 +22,6 @@
   height:30px;
   width:1fr;
   text-align: center;
-  margin:0;
 }
 
 .city-container
@@ -31,21 +29,18 @@
   height:30px;
   width:1fr;
   text-align: center;
-  margin:0;
 }
 
 .info-container
 {
   height:20px;
   width:1fr;
-  margin:0;
 }
 
 .button-container
 {
   height:60px;
   width:1fr;
-  margin:0;
   text-align: center;
   line-height: 50px;
 }
